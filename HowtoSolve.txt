@@ -21,7 +21,7 @@ second line is also very important
 third line
 Serj@Serjpc MINGW64 ~/Homework19/RepoNameOsipovForMergeConflict (main|MERGING)
 
-remove <<<,====,>>>,delete text that not needed or leave all as it is
+remove <<<,====,>>>,delete text that not needed,add text that is needed or leave all as it is
 
 $ git status
 On branch main
